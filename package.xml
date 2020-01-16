@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>AccountRecordUpdate</members>
+    <members>AverageBalancesFA</members>
+    <members>BP_OffersCustomers</members>
+    <name>ApexClass</name>
+  </types>
+  <version>47</version>
+</Package>

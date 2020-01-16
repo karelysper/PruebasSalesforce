@@ -27,3 +27,16 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
+{
+    "orgName": "pozil",
+    "edition": "Developer",
+    "language": "en_US",
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
+    }
+}
